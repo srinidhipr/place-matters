@@ -6,8 +6,6 @@ library(shiny)
 library(shinythemes)
 library(leaflet)
 
-setwd("/Users/srinidhi/Desktop/PSCI 207/Problem Set 6") # Sets working directory
-
 # Beginning the app
 server <- function(input, output) {
   
